@@ -36,3 +36,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/results/
+/.idea/
+
+#/jcstress-results-2023-12-24-20-46-17.bin.gz, 把这样的文件也忽略掉
+jcstress-results-*.bin.gz

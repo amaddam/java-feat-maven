@@ -1,4 +1,4 @@
-package self.self;
+package com.self.self;
 
 import lombok.extern.slf4j.Slf4j;
 

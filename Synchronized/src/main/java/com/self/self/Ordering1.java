@@ -1,4 +1,4 @@
-package self.self;
+package com.self.self;
 
 import org.openjdk.jcstress.annotations.Actor;
 import org.openjdk.jcstress.annotations.Expect;
