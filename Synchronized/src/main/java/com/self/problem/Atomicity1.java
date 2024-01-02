@@ -1,4 +1,4 @@
-package com.self.self;
+package com.self.problem;
 
 import java.util.ArrayList;
 
