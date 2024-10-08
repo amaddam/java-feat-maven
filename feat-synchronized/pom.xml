@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.self</groupId>
-        <artifactId>Java-Feat</artifactId>
+        <artifactId>java-feat-maven</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>Synchronized</artifactId>
+    <artifactId>feat-synchronized</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
